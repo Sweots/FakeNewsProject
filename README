@@ -1,0 +1,7 @@
+The whole training steps has been combined into one notebook, called Training.ipynb.
+In order to run the models themselves you can open Run.ipynb which contains instructions on
+how to load the model, and apply them on the dataset.
+
+The data preparation step was done over many notebooks and required a lot of experimentation.
+To describe the whole process would be way redundant, and uninteresting. Nevertheless, the
+notebooks for that are called data_prep_1, data_prep_2, and data_prep_3 in the work/ folder.
